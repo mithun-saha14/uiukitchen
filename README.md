@@ -1,2 +1,4 @@
 # uiukitchen
-This is my first git repository on my University kitchen
+This is my first Git Repository.
+<br>
+Author- Mithun Saha
